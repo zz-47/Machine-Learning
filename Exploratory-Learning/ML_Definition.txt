@@ -1,0 +1,40 @@
+Supervised Learning :  Uses Labeled data sets to train a model to predict the output of a given input.
+
+ >> Regression : 
+
+   > used to predict a value " for example a function y = f(x)  , were we give x and we want to know y (output)"
+   > predictive values have infinite possible (y) outputs.
+   > gives out a numeric value
+   > we can use it for predicting house prices, stock prices, etc
+
+ >> Classification :
+
+   > Classification is a fundamental machine learning task with applications in binary, multiclass, multilabel, 
+       and multioutput scenarios.
+   > predicting small (finite) number of outputs.
+   > the outputs are inform of classes/category (non numeric values)
+   > can provide two or more outputs (for example, a binary classifier can output two classes: 0 and 1, 
+       a multiclass classifier can output three classes: 0, 1, and 2, etc.)
+
+
+UnSupervised Learning :  Uses unlabeled data sets to train a model to discover the underlying structure of the data.
+
+ >> Clustering : 
+    
+    > the data comes with input x not the output y (indepent x is only depandency of output)
+    > group similar data points together (clustering)
+    > group data points into clusters based on their similarities
+    > can be used for customer segmentation, image segmentation, etc.
+
+ >> Anomaly detection : 
+    
+    > finding unsusual data points.
+    > detect data points that are different from the rest of the data (anomalies)
+    > detect data points that are unusual or different from the rest of the data
+    > can be used for fraud detection, anomaly detection in medical data, etc.
+  
+ >> Dimensionality reduction : 
+    
+    > reduce the number of features in a dataset while retaining as much information as possible.
+    > can be used for data visualization, feature selection, and data compression. 
+

@@ -1,0 +1,35 @@
+The Road Map for Machine Learning: The Steps to Mastering the Basics of Machine Learning ...
+
+The Road Map for Machine Learning: 
+
+1 - Supervised Learning
+
+2 - Unsupervised Learning
+
+3 - Data Wrangling
+
+4 - Exploratory data analysis : 
+
+
+ >>>  Phases of Learning : 
+
+
+    >>  Phase 1 : Intro and Data Wrangling 
+    
+    >>  Phase 2 : Intro to Machine Learning
+
+    >>  Phase 3 : Deep Dive into Machine Learning
+
+
+5 - Math for Machine Learning
+
+6 - Feature Engineering : 
+        
+        Feature engineering is the process of transforming raw data into features that are more 
+       suitable for use by machine learning algorithms, ultimately improving the performance and accuracy of predictive
+       models. 
+
+
+7 - Classical Machine Learning Algorithms in depth 
+
+8 - Deep Learning
