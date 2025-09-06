@@ -1,0 +1,32 @@
+THEORY : 
+
+
+Gradient Descent is a method for optimizing a function by simultaneously updating patameters. It is used to minimize a 
+function by iteratively . used to optimize neural networks. it can have more than one minimium values ,i.e its not bow 
+shaped. It does not use mean squared error. And it is not a linear regression.
+
+
+ Graph :
+
+   its graph is like U're standing on one of a hill on a mountain range and you turn 360 degree to see where to take a 
+   baby step of Descent that csn move you fastest downhill in comparision to other direction.repeating till reaching the
+   lowest point of whole plane. these lowest points can be multiple like multiple valleys in the mountain range.
+
+   These points are called Local Minima.
+
+
+
+IMPLEMENTATION :
+
+    its notation consist of :
+
+     > Old value of W subtracted by alpha , which is the Learning rate(speed of Descent)
+     > Derivatve of cost function j(w,b)
+
+    >> Both 'w' and 'b' have there own parameter of gradient descent, updates simultaneously resluting to reaching minima.
+
+
+    WAYS :
+
+    > batch gradient Descent
+    > subset gradient Descent

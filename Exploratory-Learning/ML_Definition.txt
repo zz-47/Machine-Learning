@@ -38,3 +38,13 @@ UnSupervised Learning :  Uses unlabeled data sets to train a model to discover t
     > reduce the number of features in a dataset while retaining as much information as possible.
     > can be used for data visualization, feature selection, and data compression. 
 
+    _________________________________________________________________________________________________________________________
+
+
+    COST FUNCTION :
+
+      # also known as mean squared error .i.e ( predicted_val - OG_val )^2 of all/ (m\th) indexes of data set
+
+      a cost function (also sometimes called a loss function) measures how well a machine learning model's predictions match 
+      the actual values in the training data. It quantifies the error between predicted and actual values, providing a way 
+      to assess and optimize model performance. Lower cost function values indicate better model accuracy. 
